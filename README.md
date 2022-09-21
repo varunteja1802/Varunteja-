@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @varunnaidu1802
-- 👀 I’m interested for working in the area of Artificial Intelligence,Machine learning, Deep Learning and Neural Networks
-- 🌱 I’m currently pursuing Bachelors in Technology in Data Science and Artificial Intelligence 
-- 💞️ I’m looking to work as ML or EDA engineer
-- 📫 People can reach me at my mail ID: varuntej1802@gmail.com and mobile:+918333890029
-
-<!---
-varunnaidu1802/varunnaidu1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I am Varun Teja Pursuing Bachelor of Technology In the area of Data Science & Artificial Intelligence at School of Technology Woxsen University, I was born & raised in HYD. I come from a family of four, my father is a businessman, my mother is home maker, and my brother is currently pursuing 1st Year in Bachelor of Technology.
+I’m a person where I can take up any challenges and have the leadership skills and take any responsibilities and has an exuberant mindset.
+Coming to my Technical skills. I have had hands on experience with python since 12th grade and Machine Learning algorithms since B. Tech. I have completed several projects based on Machine Learning Supervised learning algorithms like Linear Regression, Logistic Regression, Classification and Decision Trees.
+I have an Experience of 2 Months as Intern/ Trainee Support at Tech Mahindra where I worked on Natural Language Processing using NLTK Library, Tensor Flow, Keras, Scikit Learning and even worked on BERT and ELMO Models 
+I have participated in Machine Knight a ML Competition which consisted of 2 rounds where round 1 consisted of a quiz and in round two, I was given a abstract and a dataset for House rent Prediction using supervised machine learning algorithm and had also integrated it to front end using Rest API.
+Few of the projects that I had worked on using ML Algorithms are Fraud Detection, Uber Analysis, Car Price Prediction, Churn Analysis and Sentimental Analysis on Twitter Dataset.
