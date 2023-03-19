@@ -4,3 +4,7 @@ Coming to my Technical skills. I have had hands on experience with python since 
 I have an Experience of 2 Months as Intern/ Trainee Support at Tech Mahindra where I worked on Natural Language Processing using NLTK Library, Tensor Flow, Keras, Scikit Learning and even worked on BERT and ELMO Models 
 I have participated in Machine Knight a ML Competition which consisted of 2 rounds where round 1 consisted of a quiz and in round two, I was given a abstract and a dataset for House rent Prediction using supervised machine learning algorithm and had also integrated it to front end using Rest API.
 Few of the projects that I had worked on using ML Algorithms are Fraud Detection, Uber Analysis, Car Price Prediction, Churn Analysis, Sentimental Analysis on Twitter Dataset and I am currently working on Dermatological Analysis using Deep Learning.
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=varunnandiu1802&show_icons=true&theme=radical&include_all_commits=true" />
+</p>
