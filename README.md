@@ -6,5 +6,5 @@ I have participated in Machine Knight a ML Competition which consisted of 2 roun
 Few of the projects that I had worked on using ML Algorithms are Fraud Detection, Uber Analysis, Car Price Prediction, Churn Analysis, Sentimental Analysis on Twitter Dataset and I am currently working on Dermatological Analysis using Deep Learning.
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=varunnadiu1802&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=varunnaidu1802&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
